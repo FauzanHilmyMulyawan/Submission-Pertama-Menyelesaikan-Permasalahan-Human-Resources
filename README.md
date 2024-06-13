@@ -1,5 +1,8 @@
 # Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources
 
+Nama : Fauzan Hilmy Mulyawan
+email : fauzanhilmy9@gmail.com
+
 ## Latar Belakang
 
 Jaya Jaya Maju adalah perusahaan multinasional yang telah beroperasi sejak tahun 2000, dengan lebih dari 1000 karyawan tersebar di seluruh negeri. Meskipun telah berkembang menjadi entitas yang cukup besar, perusahaan ini masih menghadapi tantangan dalam mengelola karyawan, yang tercermin dari tingginya rasio attrition yang mencapai lebih dari 10%. Untuk mengatasi masalah ini, manajer departemen HR memerlukan bantuan dalam mengidentifikasi faktor-faktor yang berkontribusi terhadap tingginya tingkat keluar-masuk karyawan, serta dalam membuat dashboard bisnis yang dapat memonitor berbagai faktor tersebut secara efektif.
@@ -7,6 +10,21 @@ Jaya Jaya Maju adalah perusahaan multinasional yang telah beroperasi sejak tahun
 ## Permasalahan Bisnis
 
 Jaya Jaya Maju menghadapi tingkat attrition yang tinggi, melebihi 10%, yang dapat mengganggu stabilitas operasional dan meningkatkan biaya rekrutmen serta pelatihan. Untuk mengatasi masalah ini, manajer HR memerlukan bantuan untuk mengidentifikasi berbagai faktor yang berkontribusi terhadap tingginya tingkat attrition, seperti keseimbangan kerja-hidup, kepuasan kerja, peluang karir, kompensasi, dan lingkungan kerja. Selain itu, diperlukan juga alat atau dashboard bisnis yang dapat membantu memonitor secara real-time faktor-faktor tersebut, memungkinkan manajer HR untuk mengambil tindakan preventif dan korektif yang tepat waktu.
+
+## Cakupan Proyek
+### Tujuan Proyek
+Mengidentifikasi Faktor Penyebab Tinggi Tingkat Attrisi
+Mengembangkan Dashboard Bisnis untuk Pemantauan Real-Time
+
+### Langkah-Langkah Proyek
+Download Data
+Eksplorasi dan Pembersihan Data
+Analisis Data
+Pengembangan Dashboard Bisnis
+
+## Persiapan
+Sumber data: Sumber data berasal dari website dicoding yang mengarah ke website github untuk dapat mendownload data
+Setup environtment: mengimport module yang ada di requirements untuk python, dan mendowload tablue untuk dahsboard.
 
 ## Business Dashboard
 
@@ -25,6 +43,8 @@ Overtime (Lembur): Pegawai yang sering melakukan lembur menunjukkan kecenderunga
 Bidang Pendidikan: Pegawai yang memiliki latar belakang pendidikan di bidang ilmu biologi cenderung lebih tinggi tingkat attrisinya dibandingkan dengan pegawai dari bidang pendidikan lainnya. Hal ini dapat menunjukkan ketidakcocokan antara kualifikasi pendidikan dan ekspektasi pekerjaan atau kurangnya peluang pengembangan karir yang sesuai dengan latar belakang pendidikan tersebut.
 
 Gender: Analisis juga menunjukkan bahwa pegawai pria cenderung lebih tinggi tingkat attrisinya dibandingkan dengan pegawai wanita. Faktor ini mungkin terkait dengan berbagai alasan, termasuk perbedaan dalam persepsi tentang peluang karir, keseimbangan kerja-hidup, atau budaya kerja yang ada di perusahaan.
+
+## Rekomendasi
 
 Untuk mengatasi masalah ini, manajer HR memerlukan dashboard bisnis yang efektif yang dapat memonitor secara real-time berbagai faktor yang berkontribusi terhadap attrisi. Dengan alat ini, manajer dapat mengidentifikasi masalah lebih awal dan mengambil tindakan preventif dan korektif yang tepat waktu. Beberapa langkah yang bisa diambil meliputi:
 
