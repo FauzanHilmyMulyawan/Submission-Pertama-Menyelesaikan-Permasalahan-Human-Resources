@@ -1,7 +1,10 @@
 # Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources
 
 Nama : Fauzan Hilmy Mulyawan
+
 email : fauzanhilmy9@gmail.com
+
+Dashboard : https://public.tableau.com/views/Dashboard_17183339366460/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Latar Belakang
 
