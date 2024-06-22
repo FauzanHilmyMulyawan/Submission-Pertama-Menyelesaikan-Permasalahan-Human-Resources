@@ -35,6 +35,11 @@ Pengembangan Dashboard Bisnis
 4. pipenv shell
 5. pip install -r requirements.txt
 
+### Setup Environment - Metabase:
+1. docker pull metabase/metabase:v0.46.4
+2. docker run -p 3000:3000 --name metabase metabase/metabase
+3. http://localhost:3000/setup
+
 
 ## Business Dashboard
 
