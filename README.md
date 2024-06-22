@@ -20,8 +20,10 @@ Analisis Data
 Pengembangan Dashboard Bisnis
 
 ## Persiapan
-Sumber data: Sumber data berasal dari website dicoding yang mengarah ke website github untuk dapat mendownload data
-Setup environtment: mengimport module yang ada di requirements untuk python, dan mendowload tablue untuk dahsboard.
+Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
+Setup environtment: 
+
+
 
 ## Business Dashboard
 
