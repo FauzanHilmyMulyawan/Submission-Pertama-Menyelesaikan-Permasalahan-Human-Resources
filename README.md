@@ -1,11 +1,5 @@
 # Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources
 
-Nama : Fauzan Hilmy Mulyawan
-
-email : fauzanhilmy9@gmail.com
-
-Dashboard : https://public.tableau.com/views/Dashboard_17183339366460/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
-
 ## Latar Belakang
 
 Jaya Jaya Maju adalah perusahaan multinasional yang telah beroperasi sejak tahun 2000, dengan lebih dari 1000 karyawan tersebar di seluruh negeri. Meskipun telah berkembang menjadi entitas yang cukup besar, perusahaan ini masih menghadapi tantangan dalam mengelola karyawan, yang tercermin dari tingginya rasio attrition yang mencapai lebih dari 10%. Untuk mengatasi masalah ini, manajer departemen HR memerlukan bantuan dalam mengidentifikasi faktor-faktor yang berkontribusi terhadap tingginya tingkat keluar-masuk karyawan, serta dalam membuat dashboard bisnis yang dapat memonitor berbagai faktor tersebut secara efektif.
@@ -30,6 +24,8 @@ Sumber data: Sumber data berasal dari website dicoding yang mengarah ke website 
 Setup environtment: mengimport module yang ada di requirements untuk python, dan mendowload tablue untuk dahsboard.
 
 ## Business Dashboard
+
+Dashboard : https://public.tableau.com/views/Dashboard_17183339366460/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 Dari overtime (lembur), pegawai yang sering lembur, akan cenderung melakukan atrisi
 
