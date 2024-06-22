@@ -32,10 +32,14 @@ Setup environtment: mengimport module yang ada di requirements untuk python, dan
 ## Business Dashboard
 
 Dari overtime (lembur), pegawai yang sering lembur, akan cenderung melakukan atrisi
+
 Dari bidang pendidikan, pegawai yang berasal dari ilmu biologi cenderung melakukan atrisi
+
 Dari gender, pegawai pria cenderung melakukan atrisi
+
 Dari posisi, teknisi labnoratorium cenderung melakukan atrisi
-dari perjalanan bisnis, pegawai yang jarang melakukan perjalanan bisnis cenderung melakukan atrisi
+
+Dari perjalanan bisnis, pegawai yang jarang melakukan perjalanan bisnis cenderung melakukan atrisi
 
 ## Conclusion
 
