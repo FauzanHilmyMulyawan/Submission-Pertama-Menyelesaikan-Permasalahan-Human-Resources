@@ -1,5 +1,5 @@
-matplotlib version: 3.7.1
-numpy version: 1.25.2
-seaborn version: 0.13.1
-pandas version: 2.0.3
-plotly version: 5.15.0
+matplotlib==3.7.1
+numpy==1.25.2
+seaborn==0.13.1
+pandas==2.0.3
+plotly==5.15.0
