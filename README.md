@@ -23,17 +23,21 @@ Pengembangan Dashboard Bisnis
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
 Setup Environment - Anaconda:
+<div style="border: 1px solid black; padding: 10px;">
 conda create --name main-ds python=3.9
 conda activate main-ds
 pip install -r requirements.txt
+</div>
 
 
 Setup Environment - Shell/Terminal:
+<div style="border: 1px solid black; padding: 10px;">
 mkdir proyek_analisis_data
 cd proyek_analisis_data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
+</div>
 
 
 ## Business Dashboard
